@@ -30,7 +30,7 @@ NEW...
 <p align="center">
 &nbsp; <a href="https://www.youtube.com/@mr_passanger" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/youtube.png" width="30" /></a>  
 &nbsp; <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="30" /></a>  
-&nbsp; <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="30" /></a>
+&nbsp; <a href="https://twitter.com/baiagnelo" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="30" /></a>
 &nbsp; <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="30" /></a>
 </p>
 
