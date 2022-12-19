@@ -9,12 +9,12 @@ NEW...
 -->
 
 <!--ESTATISTICS GITHUB-->
-<div align="center">
+<div align="center"  height="350" width="250">
     <a href="https://github.com/Agnelo-72">
-    <img align="center" height="350" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agnelo-72&layout=compact&langs_count=7&theme=radical&title_color=ffea00&text_color=fff&icon_color=0088ff"/>
-    <img align="center" height="200" width="250" src="https://github-readme-stats.vercel.app/api?username=Agnelo-72&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=ffea00&text_color=fff&icon_color=0088ff"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agnelo-72&layout=compact&langs_count=7&theme=radical&title_color=ffea00&text_color=fff&icon_color=0088ff"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Agnelo-72&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=ffea00&text_color=fff&icon_color=0088ff"/>
 </div>
-<br/>
+
 <!--LANGUAGES-->
 <div align="center">
   <div style="display: inline_block"><br>
