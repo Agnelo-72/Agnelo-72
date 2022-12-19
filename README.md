@@ -38,7 +38,7 @@ NEW...
     &nbsp; <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="30" /></a>
 </p>
 
-![Snake animation](https://github.com/Agnelo-72/Agnelo-72/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Agnelo-72/Agnelo-72/edit/main/blob/output/github-contribution-grid-snake.svg)
 
 
 
