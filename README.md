@@ -13,7 +13,7 @@ NEW...
 <!--LANGUAGES-->
 <div align="center">
   
-
+<img src="https://github-readme-stats.vercel.app/api?username=Agnelo-72&show_icons=true&theme=radical&title_color=ffea00&text_color=fff&icon_color=0088ff">
   <div style="display: inline_block"><br>
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -26,8 +26,8 @@ NEW...
 <!--ESTATISTICS GITHUB-->
 <div>
 <a href="https://github.com/Agnelo-72">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agnelo-72&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Agnelo-72&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agnelo-72&layout=compact&langs_count=7&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Agnelo-72&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
  
  </br>
