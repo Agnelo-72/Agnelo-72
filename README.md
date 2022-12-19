@@ -11,8 +11,8 @@ NEW...
 <!--ESTATISTICS GITHUB-->
 <div align="center">
     <a href="https://github.com/Agnelo-72">
-    <img align="center" width="310" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agnelo-72&layout=compact&langs_count=7&theme=radical&title_color=ffea00&text_color=fff&icon_color=0088ff"/>
-    <img align="center" width="310" height="140em" src="https://github-readme-stats.vercel.app/api?username=Agnelo-72&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=ffea00&text_color=fff&icon_color=0088ff"/>
+    <img align="center" width="320" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agnelo-72&layout=compact&langs_count=7&theme=radical&title_color=ffea00&text_color=fff&icon_color=0088ff"/>
+    <img align="center" width="320" height="140em" src="https://github-readme-stats.vercel.app/api?username=Agnelo-72&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=ffea00&text_color=fff&icon_color=0088ff"/>
 </div>
 
 <br/>
