@@ -1,6 +1,7 @@
 <h1 color="0088ff">HEY, I'm Agnelo Baiá😎🤖</h1>
 
-NEW...
+I am a Computer Engineering student specializing in Information Systems at the Coimbra Institute of Engineering,
+eager to embark on my professional journey and contribute to innovative technological solutions.
 
 <!--
 <div align="center">
