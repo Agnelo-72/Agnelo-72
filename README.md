@@ -12,6 +12,12 @@
 </div>
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Agnelo-72&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&rank_icon=github" alt="Agnelo's GitHub stats" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agnelo-72&layout=compact&langs_count=7&theme=tokyonight&hide_border=false" alt="Agnelo's Top Langs" />
+</div>
+
+<div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Agnelo-72&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
 
