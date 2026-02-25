@@ -17,6 +17,8 @@
 
 <br/>
 
+<img src="https://streak-stats.demolab.com?user=Agnelo-72&theme=monokai&hide_border=true" alt="Agnelo-72's GitHub Stats" />
+
 <div align="center">
   <img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript"/>
   <img alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React"/>
