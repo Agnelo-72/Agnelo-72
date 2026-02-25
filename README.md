@@ -7,23 +7,19 @@
 <br/>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Agnelo-72&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agnelo-72&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Agnelo-72&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" alt="Agnelo's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agnelo-72&layout=compact&langs_count=7&theme=tokyonight" alt="Agnelo's Top Langs" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Agnelo-72&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&rank_icon=github" alt="Agnelo's GitHub stats" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agnelo-72&layout=compact&langs_count=7&theme=tokyonight&hide_border=false" alt="Agnelo's Top Langs" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Agnelo-72&theme=tokyo-night&area=true"/>
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Agnelo-72&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Agnelo-72&theme=tokyonight" alt="Agnelo-72's GitHub Streak" />
 </div>
 
 <br/>
-
-<img src="https://streak-stats.demolab.com?user=Agnelo-72&theme=monokai&hide_border=true" alt="Agnelo-72's GitHub Stats" />
 
 <div align="center">
   <img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript"/>
