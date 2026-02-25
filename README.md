@@ -1,45 +1,51 @@
-<h1 color="0088ff">HEY, I'm Agnelo Baiá😎🤖</h1>
+<h1 align="center">Hey, I'm Agnelo Baiá 😎🤖</h1>
 
-I am a Computer Engineering student specializing in Information Systems at the Coimbra Institute of Engineering,
-eager to embark on my professional journey and contribute to innovative technological solutions.
-
-<!--
-<div align="center">
-  <img align="center" src="https://github.com/RozhakXD/RozhakXD/raw/main/wallpaperflare.com_wallpaper.jpg">
-</div>
--->
-
-<!--ESTATISTICS GITHUB-->
-<div align="center"  height="350" width="250">
-    <a href="https://github.com/Agnelo-72">
-    <img align="center" height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agnelo-72&layout=compact&langs_count=7&theme=radical&title_color=ffea00&text_color=fff&icon_color=0088ff"/>
-    <img align="center"  height="115em" src="https://github-readme-stats.vercel.app/api?username=Agnelo-72&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=ffea00&text_color=fff&icon_color=0088ff"/>
-</div>
-
-<!--LANGUAGES-->
-<div align="center">
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </div>
-</div>
- 
- </br>
- 
- <!--SOCIAL MEDIAS-->
 <p align="center">
-    &nbsp; <a href="https://www.youtube.com/@mr_passanger" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/youtube.png" width="30" /></a>  
-    &nbsp; <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="30" /></a>  
-    &nbsp; <a href="https://twitter.com/baiagnelo" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="30" /></a>
-    &nbsp; <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="30" /></a>
+  <b>Computer Engineering student · Information Systems · Coimbra Institute of Engineering</b><br>
+  Eager to embark on my professional journey and contribute to innovative technological solutions.
 </p>
 
-<!--SNAKE GIT 
-![Snake animation](https://github.com/Agnelo-72/Agnelo-72/blob/output/github-contribution-grid-snake.svg)
--->
+---
 
+### 📊 GitHub Stats
 
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agnelo-72&layout=compact&langs_count=7&theme=radical&title_color=ffea00&text_color=fff&icon_color=0088ff"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Agnelo-72&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=ffea00&text_color=fff&icon_color=0088ff"/>
+</div>
 
+---
+
+### 🛠️ Technologies & Tools
+
+<div align="center">
+  <img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript"/>
+  <img alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React"/>
+  <img alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5"/>
+  <img alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3"/>
+  <img alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python"/>
+</div>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/agnelo-silva-baia" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/baiagnelo" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"/>
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@mr_passanger" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Agnelo-72&color=0088ff&style=flat-square&label=Profile+Views" alt="Profile views"/>
+</p>
