@@ -6,17 +6,39 @@
 
 <br/>
 
+
+
+
+
+
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Agnelo-72&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" alt="Agnelo's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agnelo-72&layout=compact&langs_count=7&theme=tokyonight" alt="Agnelo's Top Langs" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Agnelo-72&show_icons=true&theme=tokyonight&rank_icon=github" alt="Stats" />
+  
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agnelo-72&layout=compact&theme=tokyonight&langs_count=8" alt="Langs" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Agnelo-72&theme=tokyo-night&area=true"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Agnelo-72&theme=tokyo-night&area=true&hide_border=true" />
+</div>
+
+
+
+
+
+
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Agnelo-72&show_icons=true&theme=monokay&include_all_commits=true&count_private=true&rank_icon=github" alt="Agnelo's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agnelo-72&layout=compact&langs_count=7&theme=monokay" alt="Agnelo's Top Langs" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Agnelo-72&theme=tokyonight" alt="Agnelo-72's GitHub Streak" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Agnelo-72&theme=monokay&area=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Agnelo-72&theme=monokay" alt="Agnelo-72's GitHub Streak" />
 </div>
 
 <br/>
